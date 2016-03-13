@@ -10,5 +10,5 @@ Here is what is remaining to be done.
 
 ### Hardware
 - [ ] Sensors (Sensor integration, etc)
-- [ ] Base hardware (RPi, etc)
+- [x] Base hardware (RPi, etc)
 - [ ] Funds
