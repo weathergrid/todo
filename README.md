@@ -12,3 +12,8 @@ Here is what is remaining to be done.
 - [ ] Sensors (Sensor integration, etc)
 - [x] Base hardware (RPi, etc)
 - [ ] Funds
+
+### Workflow
+- [ ] Unit testing (will be implemented after proof of concept is done)
+- [ ] Code climate 
+- [ ] Code cleanups 
