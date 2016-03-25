@@ -1,4 +1,4 @@
-# todo for owg
+# todo for wgi
 Here is what is remaining to be done.
 
 ### Software
@@ -17,3 +17,35 @@ Here is what is remaining to be done.
 - [ ] Unit testing (will be implemented after proof of concept is done)
 - [ ] Code climate 
 - [ ] Code cleanups 
+- [ ] Project page, video, etc
+
+# Individual branches/repositories
+
+## api
+[![Issue Count](https://codeclimate.com/github/weathergrid/api/badges/issue_count.svg)](https://codeclimate.com/github/weathergrid/api)
+
+- [ ] API as a whole
+- [ ] Read
+- [ ] Archival tasker
+- [x] DB
+- [x] Unit testing
+- [x] Travis CI
+
+## device-server
+- [x] **JSON**
+- [ ] **Sockets**
+- [ ] GPIO Sensor integration
+- [ ] Code touchups and cleanups
+- [ ] **Unit testing, modularity**
+
+## apiman
+- [ ] *Not started yet.*
+- [ ] Update
+- [ ] Create
+
+## frontend
+- [ ] Mostly everything, as of today.
+- [x] Design
+
+## licenses
+- [ ] commit licenses
